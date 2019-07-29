@@ -17,6 +17,6 @@ Para a montagem deste projeto, são necessários:
 -Protoboard e fios.
 # Créditos
 Bruno Feu de Brito
-# Diagrama
-\annex
+# Diagrama e Código
+Em anexo
 
