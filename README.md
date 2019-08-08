@@ -18,4 +18,4 @@ Para a montagem deste projeto, são necessários:
 # Créditos
 Bruno Feu de Brito
 # Diagrama 
-<p><a href="https://github.com/VanessaRomalo/AlimentadorParaAnimais/blob/master/simula%C3%A7%C3%A3o.png">https://github.com/VanessaRomalo/AlimentadorParaAnimais/blob/master/simula%C3%A7%C3%A3o.png</a></p>
+<p><img src="https://raw.githubusercontent.com/VanessaRomalo/AlimentadorParaAnimais/master/simula%C3%A7%C3%A3o.png" alt="" width="651" height="576" /></p>
