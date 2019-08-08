@@ -17,6 +17,5 @@ Para a montagem deste projeto, são necessários:
 -Protoboard e fios.
 # Créditos
 Bruno Feu de Brito
-# Diagrama e Código
-Em anexo
-
+# Diagrama 
+<p><a href="https://github.com/VanessaRomalo/AlimentadorParaAnimais/blob/master/simula%C3%A7%C3%A3o.png">https://github.com/VanessaRomalo/AlimentadorParaAnimais/blob/master/simula%C3%A7%C3%A3o.png</a></p>
